@@ -1,0 +1,20 @@
+
+# Compiled executables
+*.exe
+*.o
+*.obj
+
+# Build directories
+build/
+cmake-build-*/
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary output
+test_output.txt
+
+# OS files
+Thumbs.db
+.DS_Store
